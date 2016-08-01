@@ -9,6 +9,14 @@
     <class>demo.StudentNumbers</class>
     <class>demo.StudentGun</class>
     <class>demo.Students</class>
+    <class>demo2.StudentInfo</class>
+    <class>demo2.StudentNumbers</class>
+    <class>demo2.Classes</class>
+    <class>demo2.StudentEmergency</class>
+    <class>demo2.StudentGun</class>
+    <class>demo2.Users</class>
+    <class>demo2.Scores</class>
+    <class>demo2.Students</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/sccwp?zeroDateTimeBehavior=convertToNull"/>
       <property name="javax.persistence.jdbc.user" value="root"/>

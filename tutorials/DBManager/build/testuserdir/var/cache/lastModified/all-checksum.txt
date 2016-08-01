@@ -1,0 +1,9 @@
+C:\Program Files\NetBeans 8.1\platform=1469035928700
+cluster.C:/Users/Kenny/Documents/NetBeansProjects/nb-api-samples~api-samples/versions/8.0/tutorials/DBManager/build/cluster=1469115420993
+cluster.C:/Program Files/NetBeans 8.1/platform=1469035928700
+user=1469115420993
+crc=7
+locale=en_US
+branding=dbmanager
+java.version=1.8.0_45
+java.vm.version=25.45-b02
